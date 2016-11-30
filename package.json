@@ -1,0 +1,23 @@
+{
+  "name": "webappangularjs",
+  "version": "1.0.0",
+  "description": "Examples related to Mastering Web App Dev with AngularJS Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmaronchick/webappangularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmaronchick/webappangularjs/issues"
+  },
+  "homepage": "https://github.com/cmaronchick/webappangularjs#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "karma": "^1.3.0"
+  }
+}
